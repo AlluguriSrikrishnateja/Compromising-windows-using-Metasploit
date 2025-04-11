@@ -45,24 +45,9 @@ Use the help command to list available operations.
 
 
 ## Step8:
-For example,the "webcam_stream" command captures the victim's webcam and saves it in the attacker's home directory.
+For example,the "key_scan" command captures the victim's screen and saves it in the attacker's home directory.
 
-![Screenshot 2025-04-07 113710](https://github.com/user-attachments/assets/a8d8af05-c75d-441a-af82-85b3418b795f)
-
-
-## Step9:Terminate the Connection
-After completing the intended operations, closr the session securly.
-## Result: 
-The Metasploit framework for reconnaissance is examined successfully.
-
-
-
-
-
-
-
-
-
+![Screenshot 2025-04-11 142051](https://github.com/user-attachments/assets/5dcf83ce-110f-4e93-9d0f-e95b0af18be1)
 
 
 
